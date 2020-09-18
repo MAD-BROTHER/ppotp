@@ -1,9 +1,0 @@
-__pycache__
-*.pyc
-.idea
-*.cfg
-*.tox
-!setup.cfg
-*.egg-info
-build
-dist
